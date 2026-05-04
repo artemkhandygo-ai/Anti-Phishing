@@ -1,0 +1,1001 @@
+text_combined,label
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #1.",safe
+"Subject: Shopping list. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #2.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #3.",safe
+"Subject: Calendar update. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #4.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #5.",safe
+Subject: Weekend plan. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #6.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #7.",safe
+"Subject: Office update. I shared the draft notes, please review them whenever you have time. Regular safe email sample #8.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #9.",safe
+"Subject: Reminder. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #10.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #11.,safe
+Subject: Work note. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #12.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #13.",safe
+"Subject: Team note. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #14.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #15.",safe
+"Subject: Pickup request. The report draft is attached for normal review, no rush from my side. Regular safe email sample #16.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #17.",safe
+"Subject: Notes. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #18.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #19.",safe
+"Subject: Shopping list. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #20.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #21.",safe
+"Subject: Calendar update. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #22.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #23.",safe
+Subject: Weekend plan. The receipts are in the top drawer so we can sort them later. Regular safe email sample #24.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #25.",safe
+"Subject: Office update. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #26.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #27.",safe
+"Subject: Reminder. There are no changes in the class schedule, same room as before. Regular safe email sample #28.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #29.",safe
+"Subject: Work note. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #30.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #31.",safe
+"Subject: Team note. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #32.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #33.",safe
+Subject: Pickup request. Please collect the package from the pickup point after lunch. Regular safe email sample #34.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #35.",safe
+Subject: Notes. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #36.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #37.",safe
+"Subject: Shopping list. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #38.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #39.",safe
+"Subject: Calendar update. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #40.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #41.",safe
+"Subject: Weekend plan. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #42.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #43.",safe
+"Subject: Office update. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #44.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #45.",safe
+Subject: Reminder. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #46.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #47.",safe
+"Subject: Work note. I shared the draft notes, please review them whenever you have time. Regular safe email sample #48.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #49.",safe
+"Subject: Team note. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #50.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #51.,safe
+Subject: Pickup request. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #52.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #53.",safe
+"Subject: Notes. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #54.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #55.",safe
+"Subject: Shopping list. The report draft is attached for normal review, no rush from my side. Regular safe email sample #56.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #57.",safe
+"Subject: Calendar update. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #58.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #59.",safe
+"Subject: Weekend plan. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #60.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #61.",safe
+"Subject: Office update. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #62.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #63.",safe
+Subject: Reminder. The receipts are in the top drawer so we can sort them later. Regular safe email sample #64.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #65.",safe
+"Subject: Work note. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #66.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #67.",safe
+"Subject: Team note. There are no changes in the class schedule, same room as before. Regular safe email sample #68.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #69.",safe
+"Subject: Pickup request. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #70.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #71.",safe
+"Subject: Notes. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #72.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #73.",safe
+Subject: Shopping list. Please collect the package from the pickup point after lunch. Regular safe email sample #74.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #75.",safe
+Subject: Calendar update. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #76.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #77.",safe
+"Subject: Weekend plan. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #78.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #79.",safe
+"Subject: Office update. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #80.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #81.",safe
+"Subject: Reminder. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #82.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #83.",safe
+"Subject: Work note. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #84.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #85.",safe
+Subject: Team note. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #86.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #87.",safe
+"Subject: Pickup request. I shared the draft notes, please review them whenever you have time. Regular safe email sample #88.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #89.",safe
+"Subject: Notes. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #90.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #91.,safe
+Subject: Shopping list. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #92.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #93.",safe
+"Subject: Calendar update. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #94.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #95.",safe
+"Subject: Weekend plan. The report draft is attached for normal review, no rush from my side. Regular safe email sample #96.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #97.",safe
+"Subject: Office update. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #98.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #99.",safe
+"Subject: Reminder. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #100.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #101.",safe
+"Subject: Work note. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #102.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #103.",safe
+Subject: Team note. The receipts are in the top drawer so we can sort them later. Regular safe email sample #104.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #105.",safe
+"Subject: Pickup request. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #106.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #107.",safe
+"Subject: Notes. There are no changes in the class schedule, same room as before. Regular safe email sample #108.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #109.",safe
+"Subject: Shopping list. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #110.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #111.",safe
+"Subject: Calendar update. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #112.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #113.",safe
+Subject: Weekend plan. Please collect the package from the pickup point after lunch. Regular safe email sample #114.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #115.",safe
+Subject: Office update. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #116.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #117.",safe
+"Subject: Reminder. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #118.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #119.",safe
+"Subject: Work note. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #120.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #121.",safe
+"Subject: Team note. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #122.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #123.",safe
+"Subject: Pickup request. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #124.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #125.",safe
+Subject: Notes. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #126.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #127.",safe
+"Subject: Shopping list. I shared the draft notes, please review them whenever you have time. Regular safe email sample #128.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #129.",safe
+"Subject: Calendar update. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #130.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #131.,safe
+Subject: Weekend plan. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #132.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #133.",safe
+"Subject: Office update. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #134.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #135.",safe
+"Subject: Reminder. The report draft is attached for normal review, no rush from my side. Regular safe email sample #136.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #137.",safe
+"Subject: Work note. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #138.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #139.",safe
+"Subject: Team note. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #140.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #141.",safe
+"Subject: Pickup request. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #142.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #143.",safe
+Subject: Notes. The receipts are in the top drawer so we can sort them later. Regular safe email sample #144.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #145.",safe
+"Subject: Shopping list. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #146.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #147.",safe
+"Subject: Calendar update. There are no changes in the class schedule, same room as before. Regular safe email sample #148.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #149.",safe
+"Subject: Weekend plan. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #150.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #151.",safe
+"Subject: Office update. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #152.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #153.",safe
+Subject: Reminder. Please collect the package from the pickup point after lunch. Regular safe email sample #154.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #155.",safe
+Subject: Work note. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #156.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #157.",safe
+"Subject: Team note. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #158.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #159.",safe
+"Subject: Pickup request. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #160.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #161.",safe
+"Subject: Notes. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #162.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #163.",safe
+"Subject: Shopping list. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #164.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #165.",safe
+Subject: Calendar update. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #166.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #167.",safe
+"Subject: Weekend plan. I shared the draft notes, please review them whenever you have time. Regular safe email sample #168.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #169.",safe
+"Subject: Office update. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #170.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #171.,safe
+Subject: Reminder. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #172.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #173.",safe
+"Subject: Work note. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #174.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #175.",safe
+"Subject: Team note. The report draft is attached for normal review, no rush from my side. Regular safe email sample #176.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #177.",safe
+"Subject: Pickup request. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #178.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #179.",safe
+"Subject: Notes. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #180.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #181.",safe
+"Subject: Shopping list. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #182.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #183.",safe
+Subject: Calendar update. The receipts are in the top drawer so we can sort them later. Regular safe email sample #184.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #185.",safe
+"Subject: Weekend plan. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #186.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #187.",safe
+"Subject: Office update. There are no changes in the class schedule, same room as before. Regular safe email sample #188.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #189.",safe
+"Subject: Reminder. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #190.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #191.",safe
+"Subject: Work note. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #192.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #193.",safe
+Subject: Team note. Please collect the package from the pickup point after lunch. Regular safe email sample #194.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #195.",safe
+Subject: Pickup request. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #196.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #197.",safe
+"Subject: Notes. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #198.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #199.",safe
+"Subject: Shopping list. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #200.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #201.",safe
+"Subject: Calendar update. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #202.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #203.",safe
+"Subject: Weekend plan. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #204.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #205.",safe
+Subject: Office update. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #206.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #207.",safe
+"Subject: Reminder. I shared the draft notes, please review them whenever you have time. Regular safe email sample #208.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #209.",safe
+"Subject: Work note. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #210.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #211.,safe
+Subject: Team note. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #212.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #213.",safe
+"Subject: Pickup request. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #214.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #215.",safe
+"Subject: Notes. The report draft is attached for normal review, no rush from my side. Regular safe email sample #216.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #217.",safe
+"Subject: Shopping list. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #218.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #219.",safe
+"Subject: Calendar update. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #220.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #221.",safe
+"Subject: Weekend plan. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #222.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #223.",safe
+Subject: Office update. The receipts are in the top drawer so we can sort them later. Regular safe email sample #224.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #225.",safe
+"Subject: Reminder. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #226.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #227.",safe
+"Subject: Work note. There are no changes in the class schedule, same room as before. Regular safe email sample #228.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #229.",safe
+"Subject: Team note. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #230.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #231.",safe
+"Subject: Pickup request. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #232.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #233.",safe
+Subject: Notes. Please collect the package from the pickup point after lunch. Regular safe email sample #234.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #235.",safe
+Subject: Shopping list. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #236.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #237.",safe
+"Subject: Calendar update. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #238.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #239.",safe
+"Subject: Weekend plan. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #240.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #241.",safe
+"Subject: Office update. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #242.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #243.",safe
+"Subject: Reminder. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #244.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #245.",safe
+Subject: Work note. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #246.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #247.",safe
+"Subject: Team note. I shared the draft notes, please review them whenever you have time. Regular safe email sample #248.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #249.",safe
+"Subject: Pickup request. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #250.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #251.,safe
+Subject: Notes. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #252.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #253.",safe
+"Subject: Shopping list. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #254.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #255.",safe
+"Subject: Calendar update. The report draft is attached for normal review, no rush from my side. Regular safe email sample #256.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #257.",safe
+"Subject: Weekend plan. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #258.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #259.",safe
+"Subject: Office update. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #260.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #261.",safe
+"Subject: Reminder. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #262.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #263.",safe
+Subject: Work note. The receipts are in the top drawer so we can sort them later. Regular safe email sample #264.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #265.",safe
+"Subject: Team note. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #266.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #267.",safe
+"Subject: Pickup request. There are no changes in the class schedule, same room as before. Regular safe email sample #268.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #269.",safe
+"Subject: Notes. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #270.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #271.",safe
+"Subject: Shopping list. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #272.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #273.",safe
+Subject: Calendar update. Please collect the package from the pickup point after lunch. Regular safe email sample #274.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #275.",safe
+Subject: Weekend plan. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #276.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #277.",safe
+"Subject: Office update. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #278.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #279.",safe
+"Subject: Reminder. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #280.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #281.",safe
+"Subject: Work note. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #282.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #283.",safe
+"Subject: Team note. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #284.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #285.",safe
+Subject: Pickup request. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #286.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #287.",safe
+"Subject: Notes. I shared the draft notes, please review them whenever you have time. Regular safe email sample #288.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #289.",safe
+"Subject: Shopping list. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #290.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #291.,safe
+Subject: Calendar update. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #292.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #293.",safe
+"Subject: Weekend plan. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #294.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #295.",safe
+"Subject: Office update. The report draft is attached for normal review, no rush from my side. Regular safe email sample #296.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #297.",safe
+"Subject: Reminder. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #298.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #299.",safe
+"Subject: Work note. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #300.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #301.",safe
+"Subject: Team note. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #302.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #303.",safe
+Subject: Pickup request. The receipts are in the top drawer so we can sort them later. Regular safe email sample #304.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #305.",safe
+"Subject: Notes. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #306.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #307.",safe
+"Subject: Shopping list. There are no changes in the class schedule, same room as before. Regular safe email sample #308.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #309.",safe
+"Subject: Calendar update. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #310.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #311.",safe
+"Subject: Weekend plan. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #312.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #313.",safe
+Subject: Office update. Please collect the package from the pickup point after lunch. Regular safe email sample #314.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #315.",safe
+Subject: Reminder. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #316.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #317.",safe
+"Subject: Work note. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #318.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #319.",safe
+"Subject: Team note. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #320.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #321.",safe
+"Subject: Pickup request. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #322.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #323.",safe
+"Subject: Notes. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #324.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #325.",safe
+Subject: Shopping list. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #326.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #327.",safe
+"Subject: Calendar update. I shared the draft notes, please review them whenever you have time. Regular safe email sample #328.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #329.",safe
+"Subject: Weekend plan. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #330.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #331.,safe
+Subject: Office update. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #332.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #333.",safe
+"Subject: Reminder. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #334.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #335.",safe
+"Subject: Work note. The report draft is attached for normal review, no rush from my side. Regular safe email sample #336.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #337.",safe
+"Subject: Team note. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #338.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #339.",safe
+"Subject: Pickup request. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #340.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #341.",safe
+"Subject: Notes. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #342.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #343.",safe
+Subject: Shopping list. The receipts are in the top drawer so we can sort them later. Regular safe email sample #344.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #345.",safe
+"Subject: Calendar update. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #346.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #347.",safe
+"Subject: Weekend plan. There are no changes in the class schedule, same room as before. Regular safe email sample #348.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #349.",safe
+"Subject: Office update. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #350.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #351.",safe
+"Subject: Reminder. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #352.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #353.",safe
+Subject: Work note. Please collect the package from the pickup point after lunch. Regular safe email sample #354.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #355.",safe
+Subject: Team note. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #356.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #357.",safe
+"Subject: Pickup request. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #358.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #359.",safe
+"Subject: Notes. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #360.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #361.",safe
+"Subject: Shopping list. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #362.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #363.",safe
+"Subject: Calendar update. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #364.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #365.",safe
+Subject: Weekend plan. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #366.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #367.",safe
+"Subject: Office update. I shared the draft notes, please review them whenever you have time. Regular safe email sample #368.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #369.",safe
+"Subject: Reminder. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #370.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #371.,safe
+Subject: Work note. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #372.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #373.",safe
+"Subject: Team note. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #374.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #375.",safe
+"Subject: Pickup request. The report draft is attached for normal review, no rush from my side. Regular safe email sample #376.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #377.",safe
+"Subject: Notes. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #378.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #379.",safe
+"Subject: Shopping list. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #380.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #381.",safe
+"Subject: Calendar update. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #382.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #383.",safe
+Subject: Weekend plan. The receipts are in the top drawer so we can sort them later. Regular safe email sample #384.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #385.",safe
+"Subject: Office update. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #386.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #387.",safe
+"Subject: Reminder. There are no changes in the class schedule, same room as before. Regular safe email sample #388.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #389.",safe
+"Subject: Work note. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #390.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #391.",safe
+"Subject: Team note. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #392.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #393.",safe
+Subject: Pickup request. Please collect the package from the pickup point after lunch. Regular safe email sample #394.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #395.",safe
+Subject: Notes. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #396.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #397.",safe
+"Subject: Shopping list. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #398.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #399.",safe
+"Subject: Calendar update. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #400.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #401.",safe
+"Subject: Weekend plan. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #402.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #403.",safe
+"Subject: Office update. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #404.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #405.",safe
+Subject: Reminder. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #406.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #407.",safe
+"Subject: Work note. I shared the draft notes, please review them whenever you have time. Regular safe email sample #408.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #409.",safe
+"Subject: Team note. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #410.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #411.,safe
+Subject: Pickup request. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #412.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #413.",safe
+"Subject: Notes. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #414.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #415.",safe
+"Subject: Shopping list. The report draft is attached for normal review, no rush from my side. Regular safe email sample #416.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #417.",safe
+"Subject: Calendar update. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #418.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #419.",safe
+"Subject: Weekend plan. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #420.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #421.",safe
+"Subject: Office update. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #422.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #423.",safe
+Subject: Reminder. The receipts are in the top drawer so we can sort them later. Regular safe email sample #424.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #425.",safe
+"Subject: Work note. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #426.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #427.",safe
+"Subject: Team note. There are no changes in the class schedule, same room as before. Regular safe email sample #428.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #429.",safe
+"Subject: Pickup request. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #430.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #431.",safe
+"Subject: Notes. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #432.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #433.",safe
+Subject: Shopping list. Please collect the package from the pickup point after lunch. Regular safe email sample #434.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #435.",safe
+Subject: Calendar update. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #436.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #437.",safe
+"Subject: Weekend plan. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #438.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #439.",safe
+"Subject: Office update. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #440.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #441.",safe
+"Subject: Reminder. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #442.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #443.",safe
+"Subject: Work note. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #444.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #445.",safe
+Subject: Team note. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #446.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #447.",safe
+"Subject: Pickup request. I shared the draft notes, please review them whenever you have time. Regular safe email sample #448.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #449.",safe
+"Subject: Notes. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #450.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #451.,safe
+Subject: Shopping list. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #452.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #453.",safe
+"Subject: Calendar update. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #454.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #455.",safe
+"Subject: Weekend plan. The report draft is attached for normal review, no rush from my side. Regular safe email sample #456.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #457.",safe
+"Subject: Office update. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #458.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #459.",safe
+"Subject: Reminder. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #460.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #461.",safe
+"Subject: Work note. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #462.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #463.",safe
+Subject: Team note. The receipts are in the top drawer so we can sort them later. Regular safe email sample #464.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #465.",safe
+"Subject: Pickup request. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #466.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #467.",safe
+"Subject: Notes. There are no changes in the class schedule, same room as before. Regular safe email sample #468.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #469.",safe
+"Subject: Shopping list. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #470.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #471.",safe
+"Subject: Calendar update. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #472.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #473.",safe
+Subject: Weekend plan. Please collect the package from the pickup point after lunch. Regular safe email sample #474.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #475.",safe
+Subject: Office update. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #476.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #477.",safe
+"Subject: Reminder. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #478.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #479.",safe
+"Subject: Work note. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #480.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #481.",safe
+"Subject: Team note. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #482.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #483.",safe
+"Subject: Pickup request. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #484.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #485.",safe
+Subject: Notes. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #486.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #487.",safe
+"Subject: Shopping list. I shared the draft notes, please review them whenever you have time. Regular safe email sample #488.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #489.",safe
+"Subject: Calendar update. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #490.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #491.,safe
+Subject: Weekend plan. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #492.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #493.",safe
+"Subject: Office update. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #494.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #495.",safe
+"Subject: Reminder. The report draft is attached for normal review, no rush from my side. Regular safe email sample #496.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #497.",safe
+"Subject: Work note. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #498.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #499.",safe
+"Subject: Team note. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #500.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #501.",safe
+"Subject: Pickup request. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #502.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #503.",safe
+Subject: Notes. The receipts are in the top drawer so we can sort them later. Regular safe email sample #504.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #505.",safe
+"Subject: Shopping list. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #506.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #507.",safe
+"Subject: Calendar update. There are no changes in the class schedule, same room as before. Regular safe email sample #508.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #509.",safe
+"Subject: Weekend plan. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #510.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #511.",safe
+"Subject: Office update. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #512.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #513.",safe
+Subject: Reminder. Please collect the package from the pickup point after lunch. Regular safe email sample #514.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #515.",safe
+Subject: Work note. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #516.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #517.",safe
+"Subject: Team note. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #518.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #519.",safe
+"Subject: Pickup request. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #520.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #521.",safe
+"Subject: Notes. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #522.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #523.",safe
+"Subject: Shopping list. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #524.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #525.",safe
+Subject: Calendar update. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #526.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #527.",safe
+"Subject: Weekend plan. I shared the draft notes, please review them whenever you have time. Regular safe email sample #528.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #529.",safe
+"Subject: Office update. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #530.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #531.,safe
+Subject: Reminder. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #532.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #533.",safe
+"Subject: Work note. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #534.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #535.",safe
+"Subject: Team note. The report draft is attached for normal review, no rush from my side. Regular safe email sample #536.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #537.",safe
+"Subject: Pickup request. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #538.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #539.",safe
+"Subject: Notes. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #540.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #541.",safe
+"Subject: Shopping list. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #542.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #543.",safe
+Subject: Calendar update. The receipts are in the top drawer so we can sort them later. Regular safe email sample #544.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #545.",safe
+"Subject: Weekend plan. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #546.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #547.",safe
+"Subject: Office update. There are no changes in the class schedule, same room as before. Regular safe email sample #548.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #549.",safe
+"Subject: Reminder. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #550.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #551.",safe
+"Subject: Work note. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #552.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #553.",safe
+Subject: Team note. Please collect the package from the pickup point after lunch. Regular safe email sample #554.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #555.",safe
+Subject: Pickup request. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #556.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #557.",safe
+"Subject: Notes. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #558.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #559.",safe
+"Subject: Shopping list. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #560.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #561.",safe
+"Subject: Calendar update. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #562.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #563.",safe
+"Subject: Weekend plan. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #564.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #565.",safe
+Subject: Office update. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #566.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #567.",safe
+"Subject: Reminder. I shared the draft notes, please review them whenever you have time. Regular safe email sample #568.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #569.",safe
+"Subject: Work note. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #570.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #571.,safe
+Subject: Team note. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #572.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #573.",safe
+"Subject: Pickup request. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #574.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #575.",safe
+"Subject: Notes. The report draft is attached for normal review, no rush from my side. Regular safe email sample #576.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #577.",safe
+"Subject: Shopping list. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #578.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #579.",safe
+"Subject: Calendar update. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #580.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #581.",safe
+"Subject: Weekend plan. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #582.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #583.",safe
+Subject: Office update. The receipts are in the top drawer so we can sort them later. Regular safe email sample #584.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #585.",safe
+"Subject: Reminder. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #586.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #587.",safe
+"Subject: Work note. There are no changes in the class schedule, same room as before. Regular safe email sample #588.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #589.",safe
+"Subject: Team note. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #590.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #591.",safe
+"Subject: Pickup request. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #592.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #593.",safe
+Subject: Notes. Please collect the package from the pickup point after lunch. Regular safe email sample #594.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #595.",safe
+Subject: Shopping list. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #596.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #597.",safe
+"Subject: Calendar update. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #598.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #599.",safe
+"Subject: Weekend plan. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #600.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #601.",safe
+"Subject: Office update. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #602.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #603.",safe
+"Subject: Reminder. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #604.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #605.",safe
+Subject: Work note. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #606.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #607.",safe
+"Subject: Team note. I shared the draft notes, please review them whenever you have time. Regular safe email sample #608.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #609.",safe
+"Subject: Pickup request. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #610.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #611.,safe
+Subject: Notes. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #612.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #613.",safe
+"Subject: Shopping list. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #614.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #615.",safe
+"Subject: Calendar update. The report draft is attached for normal review, no rush from my side. Regular safe email sample #616.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #617.",safe
+"Subject: Weekend plan. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #618.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #619.",safe
+"Subject: Office update. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #620.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #621.",safe
+"Subject: Reminder. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #622.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #623.",safe
+Subject: Work note. The receipts are in the top drawer so we can sort them later. Regular safe email sample #624.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #625.",safe
+"Subject: Team note. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #626.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #627.",safe
+"Subject: Pickup request. There are no changes in the class schedule, same room as before. Regular safe email sample #628.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #629.",safe
+"Subject: Notes. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #630.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #631.",safe
+"Subject: Shopping list. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #632.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #633.",safe
+Subject: Calendar update. Please collect the package from the pickup point after lunch. Regular safe email sample #634.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #635.",safe
+Subject: Weekend plan. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #636.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #637.",safe
+"Subject: Office update. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #638.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #639.",safe
+"Subject: Reminder. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #640.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #641.",safe
+"Subject: Work note. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #642.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #643.",safe
+"Subject: Team note. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #644.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #645.",safe
+Subject: Pickup request. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #646.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #647.",safe
+"Subject: Notes. I shared the draft notes, please review them whenever you have time. Regular safe email sample #648.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #649.",safe
+"Subject: Shopping list. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #650.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #651.,safe
+Subject: Calendar update. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #652.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #653.",safe
+"Subject: Weekend plan. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #654.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #655.",safe
+"Subject: Office update. The report draft is attached for normal review, no rush from my side. Regular safe email sample #656.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #657.",safe
+"Subject: Reminder. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #658.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #659.",safe
+"Subject: Work note. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #660.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #661.",safe
+"Subject: Team note. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #662.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #663.",safe
+Subject: Pickup request. The receipts are in the top drawer so we can sort them later. Regular safe email sample #664.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #665.",safe
+"Subject: Notes. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #666.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #667.",safe
+"Subject: Shopping list. There are no changes in the class schedule, same room as before. Regular safe email sample #668.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #669.",safe
+"Subject: Calendar update. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #670.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #671.",safe
+"Subject: Weekend plan. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #672.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #673.",safe
+Subject: Office update. Please collect the package from the pickup point after lunch. Regular safe email sample #674.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #675.",safe
+Subject: Reminder. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #676.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #677.",safe
+"Subject: Work note. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #678.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #679.",safe
+"Subject: Team note. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #680.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #681.",safe
+"Subject: Pickup request. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #682.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #683.",safe
+"Subject: Notes. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #684.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #685.",safe
+Subject: Shopping list. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #686.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #687.",safe
+"Subject: Calendar update. I shared the draft notes, please review them whenever you have time. Regular safe email sample #688.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #689.",safe
+"Subject: Weekend plan. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #690.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #691.,safe
+Subject: Office update. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #692.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #693.",safe
+"Subject: Reminder. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #694.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #695.",safe
+"Subject: Work note. The report draft is attached for normal review, no rush from my side. Regular safe email sample #696.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #697.",safe
+"Subject: Team note. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #698.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #699.",safe
+"Subject: Pickup request. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #700.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #701.",safe
+"Subject: Notes. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #702.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #703.",safe
+Subject: Shopping list. The receipts are in the top drawer so we can sort them later. Regular safe email sample #704.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #705.",safe
+"Subject: Calendar update. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #706.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #707.",safe
+"Subject: Weekend plan. There are no changes in the class schedule, same room as before. Regular safe email sample #708.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #709.",safe
+"Subject: Office update. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #710.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #711.",safe
+"Subject: Reminder. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #712.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #713.",safe
+Subject: Work note. Please collect the package from the pickup point after lunch. Regular safe email sample #714.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #715.",safe
+Subject: Team note. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #716.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #717.",safe
+"Subject: Pickup request. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #718.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #719.",safe
+"Subject: Notes. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #720.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #721.",safe
+"Subject: Shopping list. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #722.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #723.",safe
+"Subject: Calendar update. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #724.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #725.",safe
+Subject: Weekend plan. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #726.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #727.",safe
+"Subject: Office update. I shared the draft notes, please review them whenever you have time. Regular safe email sample #728.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #729.",safe
+"Subject: Reminder. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #730.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #731.,safe
+Subject: Work note. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #732.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #733.",safe
+"Subject: Team note. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #734.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #735.",safe
+"Subject: Pickup request. The report draft is attached for normal review, no rush from my side. Regular safe email sample #736.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #737.",safe
+"Subject: Notes. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #738.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #739.",safe
+"Subject: Shopping list. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #740.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #741.",safe
+"Subject: Calendar update. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #742.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #743.",safe
+Subject: Weekend plan. The receipts are in the top drawer so we can sort them later. Regular safe email sample #744.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #745.",safe
+"Subject: Office update. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #746.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #747.",safe
+"Subject: Reminder. There are no changes in the class schedule, same room as before. Regular safe email sample #748.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #749.",safe
+"Subject: Work note. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #750.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #751.",safe
+"Subject: Team note. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #752.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #753.",safe
+Subject: Pickup request. Please collect the package from the pickup point after lunch. Regular safe email sample #754.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #755.",safe
+Subject: Notes. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #756.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #757.",safe
+"Subject: Shopping list. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #758.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #759.",safe
+"Subject: Calendar update. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #760.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #761.",safe
+"Subject: Weekend plan. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #762.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #763.",safe
+"Subject: Office update. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #764.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #765.",safe
+Subject: Reminder. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #766.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #767.",safe
+"Subject: Work note. I shared the draft notes, please review them whenever you have time. Regular safe email sample #768.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #769.",safe
+"Subject: Team note. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #770.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #771.,safe
+Subject: Pickup request. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #772.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #773.",safe
+"Subject: Notes. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #774.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #775.",safe
+"Subject: Shopping list. The report draft is attached for normal review, no rush from my side. Regular safe email sample #776.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #777.",safe
+"Subject: Calendar update. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #778.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #779.",safe
+"Subject: Weekend plan. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #780.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #781.",safe
+"Subject: Office update. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #782.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #783.",safe
+Subject: Reminder. The receipts are in the top drawer so we can sort them later. Regular safe email sample #784.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #785.",safe
+"Subject: Work note. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #786.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #787.",safe
+"Subject: Team note. There are no changes in the class schedule, same room as before. Regular safe email sample #788.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #789.",safe
+"Subject: Pickup request. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #790.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #791.",safe
+"Subject: Notes. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #792.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #793.",safe
+Subject: Shopping list. Please collect the package from the pickup point after lunch. Regular safe email sample #794.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #795.",safe
+Subject: Calendar update. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #796.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #797.",safe
+"Subject: Weekend plan. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #798.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #799.",safe
+"Subject: Office update. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #800.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #801.",safe
+"Subject: Reminder. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #802.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #803.",safe
+"Subject: Work note. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #804.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #805.",safe
+Subject: Team note. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #806.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #807.",safe
+"Subject: Pickup request. I shared the draft notes, please review them whenever you have time. Regular safe email sample #808.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #809.",safe
+"Subject: Notes. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #810.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #811.,safe
+Subject: Shopping list. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #812.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #813.",safe
+"Subject: Calendar update. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #814.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #815.",safe
+"Subject: Weekend plan. The report draft is attached for normal review, no rush from my side. Regular safe email sample #816.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #817.",safe
+"Subject: Office update. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #818.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #819.",safe
+"Subject: Reminder. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #820.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #821.",safe
+"Subject: Work note. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #822.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #823.",safe
+Subject: Team note. The receipts are in the top drawer so we can sort them later. Regular safe email sample #824.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #825.",safe
+"Subject: Pickup request. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #826.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #827.",safe
+"Subject: Notes. There are no changes in the class schedule, same room as before. Regular safe email sample #828.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #829.",safe
+"Subject: Shopping list. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #830.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #831.",safe
+"Subject: Calendar update. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #832.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #833.",safe
+Subject: Weekend plan. Please collect the package from the pickup point after lunch. Regular safe email sample #834.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #835.",safe
+Subject: Office update. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #836.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #837.",safe
+"Subject: Reminder. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #838.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #839.",safe
+"Subject: Work note. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #840.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #841.",safe
+"Subject: Team note. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #842.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #843.",safe
+"Subject: Pickup request. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #844.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #845.",safe
+Subject: Notes. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #846.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #847.",safe
+"Subject: Shopping list. I shared the draft notes, please review them whenever you have time. Regular safe email sample #848.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #849.",safe
+"Subject: Calendar update. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #850.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #851.,safe
+Subject: Weekend plan. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #852.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #853.",safe
+"Subject: Office update. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #854.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #855.",safe
+"Subject: Reminder. The report draft is attached for normal review, no rush from my side. Regular safe email sample #856.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #857.",safe
+"Subject: Work note. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #858.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #859.",safe
+"Subject: Team note. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #860.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #861.",safe
+"Subject: Pickup request. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #862.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #863.",safe
+Subject: Notes. The receipts are in the top drawer so we can sort them later. Regular safe email sample #864.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #865.",safe
+"Subject: Shopping list. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #866.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #867.",safe
+"Subject: Calendar update. There are no changes in the class schedule, same room as before. Regular safe email sample #868.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #869.",safe
+"Subject: Weekend plan. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #870.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #871.",safe
+"Subject: Office update. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #872.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #873.",safe
+Subject: Reminder. Please collect the package from the pickup point after lunch. Regular safe email sample #874.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #875.",safe
+Subject: Work note. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #876.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #877.",safe
+"Subject: Team note. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #878.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #879.",safe
+"Subject: Pickup request. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #880.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #881.",safe
+"Subject: Notes. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #882.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #883.",safe
+"Subject: Shopping list. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #884.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #885.",safe
+Subject: Calendar update. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #886.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #887.",safe
+"Subject: Weekend plan. I shared the draft notes, please review them whenever you have time. Regular safe email sample #888.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #889.",safe
+"Subject: Office update. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #890.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #891.,safe
+Subject: Reminder. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #892.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #893.",safe
+"Subject: Work note. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #894.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #895.",safe
+"Subject: Team note. The report draft is attached for normal review, no rush from my side. Regular safe email sample #896.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #897.",safe
+"Subject: Pickup request. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #898.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #899.",safe
+"Subject: Notes. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #900.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #901.",safe
+"Subject: Shopping list. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #902.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #903.",safe
+Subject: Calendar update. The receipts are in the top drawer so we can sort them later. Regular safe email sample #904.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #905.",safe
+"Subject: Weekend plan. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #906.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #907.",safe
+"Subject: Office update. There are no changes in the class schedule, same room as before. Regular safe email sample #908.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #909.",safe
+"Subject: Reminder. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #910.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #911.",safe
+"Subject: Work note. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #912.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #913.",safe
+Subject: Team note. Please collect the package from the pickup point after lunch. Regular safe email sample #914.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #915.",safe
+Subject: Pickup request. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #916.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #917.",safe
+"Subject: Notes. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #918.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #919.",safe
+"Subject: Shopping list. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #920.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #921.",safe
+"Subject: Calendar update. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #922.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #923.",safe
+"Subject: Weekend plan. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #924.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #925.",safe
+Subject: Office update. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #926.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #927.",safe
+"Subject: Reminder. I shared the draft notes, please review them whenever you have time. Regular safe email sample #928.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #929.",safe
+"Subject: Work note. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #930.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #931.,safe
+Subject: Team note. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #932.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #933.",safe
+"Subject: Pickup request. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #934.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #935.",safe
+"Subject: Notes. The report draft is attached for normal review, no rush from my side. Regular safe email sample #936.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #937.",safe
+"Subject: Shopping list. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #938.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #939.",safe
+"Subject: Calendar update. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #940.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #941.",safe
+"Subject: Weekend plan. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #942.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #943.",safe
+Subject: Office update. The receipts are in the top drawer so we can sort them later. Regular safe email sample #944.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #945.",safe
+"Subject: Reminder. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #946.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #947.",safe
+"Subject: Work note. There are no changes in the class schedule, same room as before. Regular safe email sample #948.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #949.",safe
+"Subject: Team note. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #950.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #951.",safe
+"Subject: Pickup request. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #952.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #953.",safe
+Subject: Notes. Please collect the package from the pickup point after lunch. Regular safe email sample #954.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #955.",safe
+Subject: Shopping list. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #956.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #957.",safe
+"Subject: Calendar update. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #958.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #959.",safe
+"Subject: Weekend plan. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #960.",safe
+"Тема: Домашние дела. Суп готов, по дороге домой купи хлеб и колбасу. Обычное безопасное письмо #961.",safe
+"Subject: Office update. Dinner is ready, please buy bread and cheese on your way home. Regular safe email sample #962.",safe
+"Тема: Планы на вечер. Я буду дома после семи, если сможешь, захвати молоко и яблоки. Обычное безопасное письмо #963.",safe
+"Subject: Reminder. I will arrive after six, please pick up milk and bananas if you pass the store. Regular safe email sample #964.",safe
+"Тема: Семейные вопросы. Напоминаю, что завтра встречаемся в офисе в десять утра у переговорной. Обычное безопасное письмо #965.",safe
+Subject: Work note. Tomorrow's meeting is still at 10:00 and the room has not changed. Regular safe email sample #966.,safe
+"Тема: Рабочая заметка. Пожалуйста, посмотри обычный список задач и отметь выполненные пункты. Обычное безопасное письмо #967.",safe
+"Subject: Team note. I shared the draft notes, please review them whenever you have time. Regular safe email sample #968.",safe
+"Тема: Документы. Сегодня созвон переносится на 16:30, запись в календаре остаётся прежней. Обычное безопасное письмо #969.",safe
+"Subject: Pickup request. The call is moved to 4:30 pm, the calendar entry is the same. Regular safe email sample #970.",safe
+Тема: Учёба. Не забудь взять документы со стола и положить их в синюю папку. Обычное безопасное письмо #971.,safe
+Subject: Notes. Please take the printed papers from the desk and place them in the blue folder. Regular safe email sample #972.,safe
+"Тема: Созвон. После работы давай зайдём в магазин за овощами, рисом и чаем. Обычное безопасное письмо #973.",safe
+"Subject: Shopping list. We can stop by the grocery store later for rice, tea and vegetables. Regular safe email sample #974.",safe
+"Тема: Календарь. Я отправил обычный черновик отчёта, посмотри формулировки, когда будет время. Обычное безопасное письмо #975.",safe
+"Subject: Calendar update. The report draft is attached for normal review, no rush from my side. Regular safe email sample #976.",safe
+"Тема: Для семьи. Если будешь рядом с аптекой, купи, пожалуйста, пластырь и витамины. Обычное безопасное письмо #977.",safe
+"Subject: Weekend plan. If you are near the pharmacy, please buy vitamins and bandages. Regular safe email sample #978.",safe
+"Тема: Список дел. Погода вечером прохладная, возьми куртку, если пойдёшь пешком. Обычное безопасное письмо #979.",safe
+"Subject: Office update. It may be chilly tonight, take a jacket if you walk home. Regular safe email sample #980.",safe
+"Тема: Домашние дела. На выходных планируем поехать к родителям, напиши, удобно ли тебе в субботу. Обычное безопасное письмо #981.",safe
+"Subject: Reminder. We plan to visit the family on Saturday, let me know if that works for you. Regular safe email sample #982.",safe
+"Тема: Планы на вечер. Я положил квитанции в верхний ящик, чтобы потом спокойно их разобрать. Обычное безопасное письмо #983.",safe
+Subject: Work note. The receipts are in the top drawer so we can sort them later. Regular safe email sample #984.,safe
+"Тема: Семейные вопросы. На кухне закончился кофе, можно купить обычную упаковку по пути. Обычное безопасное письмо #985.",safe
+"Subject: Team note. We ran out of coffee in the kitchen, please buy a regular pack. Regular safe email sample #986.",safe
+"Тема: Рабочая заметка. В расписании занятий изменений нет, аудитория остаётся той же. Обычное безопасное письмо #987.",safe
+"Subject: Pickup request. There are no changes in the class schedule, same room as before. Regular safe email sample #988.",safe
+"Тема: Документы. Я забронировал столик на пятницу, напомни, если планы изменятся. Обычное безопасное письмо #989.",safe
+"Subject: Notes. I booked a table for Friday evening, tell me if your plans change. Regular safe email sample #990.",safe
+"Тема: Учёба. Подготовил заметки по проекту, без спешки прочитай их завтра утром. Обычное безопасное письмо #991.",safe
+"Subject: Shopping list. I prepared simple project notes, you can read them tomorrow morning. Regular safe email sample #992.",safe
+"Тема: Созвон. Если удобно, забери посылку из пункта выдачи после обеда. Обычное безопасное письмо #993.",safe
+Subject: Calendar update. Please collect the package from the pickup point after lunch. Regular safe email sample #994.,safe
+"Тема: Календарь. Оставил ключи у консьержа, если приедешь раньше меня. Обычное безопасное письмо #995.",safe
+Subject: Weekend plan. I left the keys with the concierge in case you arrive earlier. Regular safe email sample #996.,safe
+"Тема: Для семьи. Список продуктов обновил: хлеб, яйца, макароны, томаты и сыр. Обычное безопасное письмо #997.",safe
+"Subject: Office update. The grocery list is updated: bread, eggs, pasta, tomatoes and cheese. Regular safe email sample #998.",safe
+"Тема: Список дел. Сегодня в целом всё спокойно, просто напоминаю про встречу после обеда. Обычное безопасное письмо #999.",safe
+"Subject: Reminder. Everything is calm today, this is just a friendly reminder about the meeting. Regular safe email sample #1000.",safe

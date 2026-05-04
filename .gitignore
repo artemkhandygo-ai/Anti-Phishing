@@ -1,0 +1,37 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Celery runtime files
+celerybeat-schedule
+celerybeat-schedule.*
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Test/cache files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,68 @@
+{
+  "paypal": {
+    "display_name": "PayPal",
+    "aliases": ["paypal", "pay pal"],
+    "allowed_domains": ["paypal.com", "paypalobjects.com"],
+    "login_domains": ["paypal.com"]
+  },
+  "google": {
+    "display_name": "Google",
+    "aliases": ["google", "gmail", "google account", "google accounts"],
+    "allowed_domains": ["google.com", "gmail.com", "googleusercontent.com", "withgoogle.com"],
+    "login_domains": ["accounts.google.com"]
+  },
+  "microsoft": {
+    "display_name": "Microsoft",
+    "aliases": ["microsoft", "office 365", "office365", "outlook", "live", "onedrive", "azure"],
+    "allowed_domains": ["microsoft.com", "office.com", "outlook.com", "live.com", "microsoftonline.com", "office365.com", "sharepoint.com"],
+    "login_domains": ["login.microsoftonline.com"]
+  },
+  "apple": {
+    "display_name": "Apple",
+    "aliases": ["apple", "icloud", "apple id", "itunes"],
+    "allowed_domains": ["apple.com", "icloud.com", "me.com"],
+    "login_domains": ["apple.com"]
+  },
+  "telegram": {
+    "display_name": "Telegram",
+    "aliases": ["telegram", "telegram premium", "telegram security"],
+    "allowed_domains": ["telegram.org", "t.me"],
+    "login_domains": ["telegram.org", "my.telegram.org"]
+  },
+  "vk": {
+    "display_name": "VK",
+    "aliases": ["vk", "vkontakte", "вконтакте"],
+    "allowed_domains": ["vk.com"],
+    "login_domains": ["id.vk.com", "vk.com"]
+  },
+  "mailru": {
+    "display_name": "Mail.ru",
+    "aliases": ["mail.ru", "mailru", "почта mail.ru"],
+    "allowed_domains": ["mail.ru", "mail.ru.com", "bk.ru", "list.ru", "inbox.ru"],
+    "login_domains": ["mail.ru"]
+  },
+  "gosuslugi": {
+    "display_name": "Gosuslugi",
+    "aliases": ["gosuslugi", "госуслуги", "esia", "единая система идентификации"],
+    "allowed_domains": ["gosuslugi.ru", "esia.gosuslugi.ru"],
+    "login_domains": ["esia.gosuslugi.ru"]
+  },
+  "amazon": {
+    "display_name": "Amazon",
+    "aliases": ["amazon", "prime video", "aws"],
+    "allowed_domains": ["amazon.com", "amazonaws.com", "primevideo.com"],
+    "login_domains": ["amazon.com"]
+  },
+  "facebook": {
+    "display_name": "Facebook",
+    "aliases": ["facebook", "meta", "instagram"],
+    "allowed_domains": ["facebook.com", "fb.com", "instagram.com", "meta.com"],
+    "login_domains": ["facebook.com", "instagram.com"]
+  },
+  "bank_generic": {
+    "display_name": "Bank",
+    "aliases": ["bank", "internet banking", "online banking", "secure banking"],
+    "allowed_domains": [],
+    "login_domains": []
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "accuracy": 0.8666666666666667,
+  "precision_macro": 0.8733031674208145,
+  "recall_macro": 0.8666666666666667,
+  "f1_macro": 0.8660714285714286,
+  "roc_auc_phishing": 0.9655555555555556,
+  "samples": 300,
+  "labels_distribution": {
+    "safe": 150,
+    "phishing": 150
+  },
+  "sources": {
+    "phishing_email.csv": 254,
+    "SpamAssasin.csv": 26,
+    "spam.csv": 17,
+    "safe_emails.csv": 2,
+    "safe_short_messages_bilingual.csv": 1
+  },
+  "model_path": "data/models/phishguard_model.joblib",
+  "model_type": "hybrid_ensemble_v4",
+  "components": [
+    "word_tfidf_sgd",
+    "char_tfidf_sgd",
+    "tabular_random_forest"
+  ],
+  "trained_with_sklearn_version": "1.8.0",
+  "training_completed_at": "2026-04-29T12:37:10.512828+00:00"
+}
