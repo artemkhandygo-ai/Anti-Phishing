@@ -47,9 +47,9 @@ Endpoint:
 GET /ml/model/info
 
 Ожидаемо:
-model_exists = true
-model_type = hybrid_ensemble_v4
-metrics_exists = true
+- model_exists = true
+- model_type = hybrid_ensemble_v4
+- metrics_exists = true
 
 ### Тест 3 — список инцидентов
 
@@ -67,18 +67,18 @@ https://login-test-6jq.pages.dev/
 Спасибо."
 
 Ожидаемые причины:
-URL_LOGIN_KEYWORDS
-LOGIN_PAGE_LINK
-CREDENTIAL_COLLECTION_PAGE
+- URL_LOGIN_KEYWORDS
+- LOGIN_PAGE_LINK
+- CREDENTIAL_COLLECTION_PAGE
 
 ### Тест 5 — URL в скобках
 Отправить письмо:
 "Пожалуйста, откройте страницу (https://login-test-6jq.pages.dev/)"
 
 Ожидаемо: ссылка корректно очистится от `)` и сработают:
-URL_LOGIN_KEYWORDS
-LOGIN_PAGE_LINK
-CREDENTIAL_COLLECTION_PAGE
+- URL_LOGIN_KEYWORDS
+- LOGIN_PAGE_LINK
+- CREDENTIAL_COLLECTION_PAGE
 
 ## 4. Основные правила анализа ссылок
 
@@ -87,23 +87,23 @@ CREDENTIAL_COLLECTION_PAGE
 "Это обычное тестовое письмо без ссылок и вложений."
 
 Ожидаемо:
-risk_level = safe
-reason = BENIGN_PATTERN
+- risk_level = safe
+- reason = BENIGN_PATTERN
 
 ### Тест 7 — короткая ссылка
 Отправить письмо:
 "Проверь ссылку: https://bit.ly/test-check-link"
 
 Ожидаемо:
-SHORTENED_LINK
+- SHORTENED_LINK
 
 ### Тест 8 — IP URL и HTTP
 Отправить письмо:
 "Материалы доступны по ссылке: http://198.51.100.42/share/meeting-notes"
 
 Ожидаемо:
-IP_URL
-NON_HTTPS_LINK
+- IP_URL
+- NON_HTTPS_LINK
 
 ### Тест 9 — redirect
 Отправить письмо:
@@ -111,7 +111,7 @@ NON_HTTPS_LINK
 https://httpbin.org/redirect-to?url=https%3A%2F%2Fexample.com%2Ffile "
 
 Ожидаемо:
-REDIRECTED_DOMAIN
+- REDIRECTED_DOMAIN
 
 ### Тест 10 — опасная deep-link страница
 Отправить письмо:
@@ -120,12 +120,12 @@ https://danger.phish-lab-test.uk
 Спасибо"
 
 Ожидаемо:
-LOGIN_PAGE_LINK
-EXTERNAL_FORM_ACTION
-BRAND_MISMATCH_PAGE
-CREDENTIAL_COLLECTION_PAGE
-PAYMENT_COLLECTION_PAGE
-risk_level = phishing
+- LOGIN_PAGE_LINK
+- EXTERNAL_FORM_ACTION
+- BRAND_MISMATCH_PAGE
+- CREDENTIAL_COLLECTION_PAGE
+- PAYMENT_COLLECTION_PAGE
+- risk_level = phishing
 
 ## 5. Проверка отправителя и DNS
 
@@ -162,7 +162,7 @@ print("Письмо отправлено")
 REPLY_TO_EMAIL = "support@other-domain.test"
 
 Ожидаемо:
-FROM_REPLY_MISMATCH
+- FROM_REPLY_MISMATCH
 
 ### Тест 12 — lookalike Reply-To
 
@@ -170,16 +170,16 @@ FROM_REPLY_MISMATCH
 REPLY_TO_EMAIL = "support@rnail.ru"
 
 Ожидаемо:
-FROM_REPLY_MISMATCH
-LOOKALIKE_REPLY_DOMAIN
+- FROM_REPLY_MISMATCH
+- LOOKALIKE_REPLY_DOMAIN
 
 ### Тест 13 — punycode Reply-To
 
 REPLY_TO_EMAIL = "support@xn--pple-43d.com"
 
 Ожидаемо:
-FROM_REPLY_MISMATCH
-PUNYCODE_DOMAIN
+- FROM_REPLY_MISMATCH
+- PUNYCODE_DOMAIN
 
 ## 6. Текстовые правила
 
@@ -189,7 +189,7 @@ PUNYCODE_DOMAIN
 "Пожалуйста, отправьте ваш пароль и код подтверждения для восстановления доступа."
 
 Ожидаемо:
-PASSWORD_REQUEST
+- PASSWORD_REQUEST
 
 ### Тест 15 — сильная срочность
 
@@ -197,7 +197,7 @@ PASSWORD_REQUEST
 "Срочно подтвердите вход прямо сейчас."
 
 Ожидаемо:
-URGENT_LANGUAGE
+- URGENT_LANGUAGE
 
 ### Тест 16 — слабая срочность
 
@@ -205,7 +205,7 @@ URGENT_LANGUAGE
 "Пожалуйста, подтвердите получение письма."
 
 Ожидаемо:
-MILD_URGENCY
+- MILD_URGENCY
 
 ### Тест 17 — финансовая просьба
 
@@ -213,8 +213,8 @@ MILD_URGENCY
 "Срочно оплати счёт и сделай перевод по реквизитам сегодня."
 
 Ожидаемо:
-FINANCIAL_REQUEST
-URGENT_LANGUAGE или MILD_URGENCY
+- FINANCIAL_REQUEST
+- URGENT_LANGUAGE или MILD_URGENCY
 
 ### Тест 18 — приз и телефон
 
@@ -222,8 +222,8 @@ URGENT_LANGUAGE или MILD_URGENCY
 "Вы выиграли приз. Срочно позвоните по номеру +7 999 123 45 67, чтобы забрать выигрыш."
 
 Ожидаемо:
-PROMO_SCAM
-PHONE_NUMBER_SCAM
+- PROMO_SCAM
+- PHONE_NUMBER_SCAM
 
 ## 7. Обучение модели
 
@@ -233,8 +233,8 @@ Endpoint:
 POST /ml/train
 
 Ожидаемо:
-status = queued
-task_id присутствует
+- status = queued
+- task_id присутствует
 
 ### Тест 20 — статус обучения
 
@@ -242,8 +242,8 @@ Endpoint:
 GET /ml/train/status/{task_id}
 
 После завершения ожидаемо:
-state = SUCCESS
-status = completed
+- state = SUCCESS
+- status = completed
 
 ## 8. Устойчивость и экспорт
 
@@ -254,9 +254,9 @@ docker compose down
 docker compose up --build
 
 Проверить:
-GET /health
-GET /incidents
-GET /ml/model/info
+- GET /health
+- GET /incidents
+- GET /ml/model/info
 
 Ожидаемо: API работает, инциденты и модель сохранились.
 
