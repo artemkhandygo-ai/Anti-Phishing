@@ -55,13 +55,12 @@ Anti-Phishing/
 ├── data/
 │   ├── config/              # конфигурационные списки, whitelist
 │   ├── datasets/            # обучающие датасеты
-│   ├── models/              # обученная ML-модель и метрики
-│   └── processed/           # место для обработанных данных
+│   └─── models/              # обученная ML-модель и метрики
 ├── docker/                  # Dockerfile для app/worker/trainer
 ├── scripts/                 # служебные скрипты
 ├── docker-compose.yml
 ├── requirements.txt
-├── .env.example
+├── .env
 ├── README.md
 └── TESTING.md
 
