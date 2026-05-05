@@ -35,6 +35,7 @@ Anti-Phishing — это проектная часть моей диплоино
 - Telegram Bot API;
 - IMAP / SMTP для тестовой отправки писем.
 
+```text
 # Структура проекта
 Anti-Phishing/
 ├── app/
@@ -63,7 +64,7 @@ Anti-Phishing/
 ├── .env
 ├── README.md
 └── TESTING.md
-
+```
 # Подготовка окружения
 Перед запуском нужен Docker Desktop.
 Заполнить `.env` значениями:
