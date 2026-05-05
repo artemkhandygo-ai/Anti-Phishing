@@ -68,19 +68,21 @@ Anti-Phishing/
 # Подготовка окружения
 Перед запуском нужен Docker Desktop.
 Заполнить `.env` значениями:
+```text
 MAIL_IMAP_USERNAME=............
 MAIL_IMAP_PASSWORD=............
 MAIL_IMAP_FOLDER=INBOX
 TELEGRAM_BOT_TOKEN=............
 TELEGRAM_CHAT_ID=..............
-
+```
 # Запуск проекта
 В корне проекта:
+```text
 powershell:
 docker compose down
 docker compose build --no-cache
 docker compose up
-
+``` 
 После запуска Swagger доступен по адресу:
 http://localhost:8000/docs
 
