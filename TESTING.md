@@ -3,20 +3,20 @@
 ## 0. Подготовка
 
 1. Заполнить .env своими данными:
-
+```text
 MAIL_IMAP_USERNAME=your_mailru_login;
 MAIL_IMAP_PASSWORD=your_mailru_app_password;
 
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token;
 TELEGRAM_CHAT_ID=your_telegram_chat_id;
-
+```
 2. Запустить проект:
-
+```text
 powershell:
 docker compose down
 docker compose build --no-cache
 docker compose up
-
+```
 3. Проверить контейнеры:
 
 powershell:
@@ -130,6 +130,7 @@ risk_level = phishing
 ## 5. Проверка отправителя и DNS
 
 ## Код для отправки сообщений:
+```text
 import smtplib
 from email.message import EmailMessage
 SMTP_HOST = "smtp.mail.ru"
@@ -155,7 +156,7 @@ with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT) as smtp:
     smtp.send_message(msg)
 
 print("Письмо отправлено")
-
+```
 ### Тест 11 — From/Reply-To mismatch
 
 REPLY_TO_EMAIL = "support@other-domain.test"
