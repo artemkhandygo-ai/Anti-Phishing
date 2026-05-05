@@ -144,9 +144,9 @@ trusted@example.com
 @trusted-domain.com
 
 Если отправитель найден в whitelist, система выставляет:
-risk_level = safe
-model_version = whitelist_override
-reason = WHITELISTED_SENDER
+`risk_level = safe`
+`model_version = whitelist_override`
+`reason = WHITELISTED_SENDER`
 
 # Данные и модель
 - `data/datasets/` — датасеты для обучения;
